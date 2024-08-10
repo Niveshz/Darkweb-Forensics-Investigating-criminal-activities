@@ -52,5 +52,5 @@ class DarkWebCrawler:
         print("Images:", images)
 
 
-crawler = DarkWebCrawler('http://rxmyl3izgquew65nicavsk6loyyblztng6puq42firpvbe32sefvnbad.onion/')
+crawler = DarkWebCrawler('http://eup4ucznfp4figekskkccnva257ihyepaczk5lklufdqubhmnixdgead.onion/')
 crawler.crawl(crawler.base_url)
